@@ -60,7 +60,7 @@ body {
 }
 
 .navigation a:hover {
-	color: #DE5049;
+	text-decoration: underline;
 } 
 
 .group {
@@ -117,7 +117,7 @@ body {
 }
 
 .longtxt {
-	color: #c0c0c0;
+	color: #808080;
 	padding: 10px;
 	font-size: 15px;
 	letter-spacing: 2px;
@@ -153,13 +153,13 @@ body {
 
 .content .contentmain .keynote p {
 	position: absolute;
-	left: 400px;
-	top: 500px;
+	left: 750px;
+	top: 430px;
 	color: #8B008B;
 	font-size: 35px;
 	font-family: cursive; 
 	text-align: center;
-	width: 100%;
+	width: 400px;
 }
 
 /* CONTACT STYLES */
